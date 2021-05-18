@@ -14,17 +14,17 @@ BY EXERCISING ANY OF THE RIGHTS GRANTED HEREIN OVER THE WORK, YOU ACCEPT AND AGR
 "Work" means the copyrighted work offered under the terms of this License.
 "You" means an individual or entity exercising the rights under this License who has not previously violated the terms of this License with respect to the Work, or who, despite a prior violation, has received express permission from the Licensor to exercise the rights. under this License.
 
-### 2. Rights of Free and Legitimate Use. Nothing in this license is intended to reduce, limit, or restrict any of the rights arising from the free, legitimate use, right of appointment or other limitations that the exclusive rights of the owner have under the laws of copyright or other regulations that are applicable. .
+### 2. Rights of Free and Legitimate Use. Nothing in this license is intended to reduce, limit, or restrict any of the rights arising from the free, legitimate use, right of appointment or other limitations that the exclusive rights of the owner have under the laws of copyright or other regulations that are applicable.
 
 ### 3. Grant of License. Subject to the terms and conditions of this License, the Licensor hereby grants You a personal, limited, non-exclusive, revocable license (for the duration of the applicable copyright) to exercise the rights about the Work as set out below:
 
-to download the work for personal use, and to reproduce the work only by Fair Use, Fair Dealing laws, limitations and exceptions that are in your nation.
+a. to download one copy of the work for personal use, and to reproduce the work only by Fair Use, Fair Dealing laws, limitations and exceptions that are in your nation.
 All rights not expressly granted by Licensor are reserved, including, but not limited to, the rights.
 
 ### 4. Restrictions. The license granted above in Section 3 is expressly subject to, and limited by, the following restrictions:
 
 
-a. You may not modify, copy an distribute the works, and You must include a copy of this License or your Uniform Resource Identifier with each copy or phonogram of the Work that You use, in digital form personally. You may not offer or impose any condition on the Work that alters or restricts the terms of this License or the exercise of the rights granted here to the recipients. You may not sublicense the Work. You must keep intact all the notices and propietary notices that refer to this License and the limitation of warranties. The foregoing applies to the Work when it is  used, you may not use it in Collective Work, other than the Work itself, be subject to the terms.
+a. You may not modify, copy two or more times, and distribute the works, and You must include a copy of this License or your Uniform Resource Identifier with each copy or phonogram of the Work that You use, in digital form personally. You may not offer or impose any condition on the Work that alters or restricts the terms of this License or the exercise of the rights granted here to the recipients. You may not sublicense the Work. You must keep intact all the notices and propietary notices that refer to this License and the limitation of warranties. The foregoing applies to the Work when it is  used, you may not use it in Collective Work, other than the Work itself, be subject to the terms.
 
 b. You may only use the work for personal, non-commercial purposes, without removing any proprietary notice.
 
