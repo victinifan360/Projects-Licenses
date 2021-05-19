@@ -58,6 +58,6 @@ c. The licensor, can use a digital rights management (or "DRM"), and you will ha
 
 ### 8. Miscellaneous
 
-to. If any provision of this License is invalid or unenforceable under applicable law, this will not affect the validity or enforceability of the remaining terms of this License, and without further action by the parties to this agreement, such provision will be amended in the minimum extension necessary to make it valid and enforceable.
+a If any provision of this License is invalid or unenforceable under applicable law, this will not affect the validity or enforceability of the remaining terms of this License, and without further action by the parties to this agreement, such provision will be amended in the minimum extension necessary to make it valid and enforceable.
 
 b. This License constitutes the entire agreement between the parties with respect to the Work licensed here. There are no other understandings, agreements or representations with respect to the Work that are not specified here. The Licensor will not be bound by any additional provision that may appear in any communication from you. This License cannot be modified without the mutual agreement in writing between the Licensor and You.
