@@ -24,7 +24,7 @@ All rights not expressly granted by Licensor are reserved, including, but not li
 ### 4. Restrictions. The license granted above in Section 3 is expressly subject to, and limited by, the following restrictions:
 
 
-a. You may not modify, copy two or more times, and distribute the works, and You must include a copy of this License or your Uniform Resource Identifier with each copy or phonogram of the Work that You use, in digital form personally. You may not offer or impose any condition on the Work that alters or restricts the terms of this License or the exercise of the rights granted here to the recipients. You may not sublicense the Work. You must keep intact all the notices and propietary notices that refer to this License and the limitation of warranties. The foregoing applies to the Work when it is  used, you may not use it in Collective Work, other than the Work itself, be subject to the terms.
+a. You may not modify, copy two or more times, and distribute the work. You may not offer or impose any condition on the Work that alters or restricts the terms of this License or the exercise of the rights granted here to the recipients. You may not sublicense the Work. You must keep intact all the notices and propietary notices that refer to this License and the limitation of warranties. The foregoing applies to the Work when it is  used, you may not use it in Collective Work, other than the Work itself, be subject to the terms.
 
 b. You may only use the work for personal, non-commercial purposes, without removing any proprietary notice.
 
