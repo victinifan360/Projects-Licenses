@@ -7,8 +7,6 @@ BY EXERCISING ANY OF THE RIGHTS GRANTED HEREIN OVER THE WORK, YOU ACCEPT AND AGR
 
 ### 1. Definitions
 
-"Collective Work" means a work, such as a periodical edition, anthology or encyclopedia, in which the Work, in its entirety and unaltered form, is assembled together with other contributions that in themselves also constitute separate and independent works, within a collective set. A work that is part of a Collective Work will not be considered a Derivative Work (as defined below) for the purposes of this License.
-"Derivative Work" means a work based on the Work or on the Work and other pre-existing works, such as a translation, musical arrangement, dramatization, fictionalization, film version, sound recording, artistic reproduction, summary, condensation, or any other form in which the Work can be reformulated, transformed or adapted. A work that constitutes a Collective Work will not be considered a Derivative Work for the purposes of this License. For the avoidance of doubt, when the Work is a musical composition or sound recording, the synchronization of the Work in a temporal relationship with a moving image ("synching") will be considered a Derivative Work for the purposes of this License.
 "Licensor" means the individual or entity offering the Work under the terms of this License.
 "Original Author" means the individual or entity that created the Work.
 "Work" means the copyrighted work offered under the terms of this License.
