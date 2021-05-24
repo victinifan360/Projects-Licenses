@@ -7,4 +7,4 @@ Name of the authors: [AUTHORS NAMES].
 
 Appling to your work:
 
-Put the author(s) name(s) without changing the license.
+Put the author(s) name(s) without changing the license, and put this and above text.
